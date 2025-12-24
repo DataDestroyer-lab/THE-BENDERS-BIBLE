@@ -1,5 +1,7 @@
 The Benders Bible ⚡️
 The Ultimate Reference & Calculator for Professional Electricians.
+
+
 "https://datadestroyer-lab.github.io/THE-BENDERS-BIBLE/"
 
 The Benders Bible is a web-based mobile application designed to simplify complex conduit bending calculations. It replaces manual math and reference cards with a powerful, pocket-sized "brain" that handles everything from simple stubs to complex rolling offsets and compound bends.
