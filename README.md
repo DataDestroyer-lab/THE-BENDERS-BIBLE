@@ -95,14 +95,6 @@ Hydraulic (881, 777, One Shot)
 
 Programmable / CNC
 
-📂 File Structure
-Plaintext
-
-/
-├── index.html      # The skeleton (Sidebar, Modals, Inputs)
-├── style.css       # The skin (Dark theme, Animations, Layout)
-└── script.js       # The brain (Math logic, Tool Database, Input Parsing)
-
 🤝 Contributing
 Contributions are welcome! If you find a bug in a specific multiplier or want to add a new vintage bender to the database:
 
